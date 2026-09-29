@@ -1,0 +1,24 @@
+{
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about/index.html"
+    },
+    {
+      "source": "/collections",
+      "destination": "/collections/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact/index.html"
+    },
+    {
+      "source": "/custom",
+      "destination": "/custom/index.html"
+    }
+  ]
+}
